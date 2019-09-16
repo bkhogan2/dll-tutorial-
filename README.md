@@ -1,0 +1,2 @@
+# dll-tutorial-
+Visual Studio lets you enable more than one debugger type in a debugging session, which is called mixed-mode debugging. In this tutorial, you learn to debug both managed and native code in a single debugging session.  This tutorial shows how to debug native code from a managed app, but you can also debug managed code from a native app. The debugger also supports other types of mixed-mode debugging, such as debugging Python and native code, and using the script debugger in app types such as ASP.NET.
